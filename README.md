@@ -1,3 +1,3 @@
 # Scala-for-LeetCode
 
-There are anwser of leetcode by scala.
+There are answer of leetcode by scala.
