@@ -226,3 +226,54 @@ Leetcode by Java: https://github.com/HyejeanMOON/leetcode_by_Java
 [647. Palindromic Substrings](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/601~650/647_Palindromic%20Substrings.md)  
 
 ## 651~700
+[653. Two Sum IV - Input is a BST](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/653_Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)  
+[654. Maximum Binary Tree](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/654_Maximum%20Binary%20Tree.md)  
+[661. Maximum Product of Three Numbers](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/661_%20Maximum%20Product%20of%20Three%20Numbers.md)  
+[665. Non-decreasing Array](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/665_Non-decreasing%20Array.md)  
+[669. Trim a Binary Search Tree](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/669_Trim%20a%20Binary%20Search%20Tree.md)  
+[674. Longest Continuous Increasing Subsequence](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/674_Longest%20Continuous%20Increasing%20Subsequence.md)  
+[686. Repeated String Match](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/686_Repeated%20String%20Match.md)  
+[687. Judge Route Circle](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/687_Judge%20Route%20Circle.md)  
+[693. Binary Number with Alternating Bits](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/693_Binary%20Number%20with%20Alternating%20Bits.md)  
+[697. Degree of an Array](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/697_Degree%20of%20an%20Array.md)  
+[700. Search in a Binary Search Tree](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/651~700/700_Search%20in%20a%20Binary%20Search%20Tree.md)  
+
+## 701~750
+[704. Binary Search](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/701~750/704_Binary%20Search.md)  
+[705. Design HashSet](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/701~750/705_Design%20HashSet.md)  
+[709. To Lower Case](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/701~750/709_To%20Lower%20Case.md)  
+[717. 1-bit and 2-bit Characters](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/701~750/717_1-bit%20and%202-bit%20Characters.md)  
+[724. Find Pivot Index](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/701~750/724_Find%20Pivot%20Index.md)  
+[728. Self Dividing Numbers](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/701~750/728_Self%20Dividing%20Numbers.md)  
+[744. Find Smallest Letter Greater Than Target](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/701~750/744_Find%20Smallest%20Letter%20Greater%20Than%20Target.md)  
+[747. Largest Number At Least Twice of Others](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/701~750/747_Largest%20Number%20At%20Least%20Twice%20of%20Others.md)  
+
+## 751~800
+[781. Rabbits in Forest](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/751~800/781_Rabbits%20in%20Forest.md)  
+[783. Minimum Distance Between BST Nodes](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/751~800/783_Minimum%20Distance%20Between%20BST%20Nodes.md)  
+[796. Rotate String](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/751~800/796_Rotate%20String.md)  
+
+## 801~850
+[804. Unique Morse Code Words](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/801~850/804_Unique%20Morse%20Code%20Words.md)  
+[817. Linked List Components](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/801~850/817_Linked%20List%20Components.md)  
+[819. Most Common Word](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/801~850/819_Most%20Common%20Word.md)  
+[830. Positions of Large Groups](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/801~850/830_Positions%20of%20Large%20Groups.md)  
+[844. Backspace String Compare](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/801~850/844_Backspace%20String%20Compare.md)  
+
+## 851~900
+[859. Buddy Strings](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/851~900/859_Buddy%20Strings.md)  
+[860. Lemonade Change](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/851~900/860_Lemonade%20Change.md)  
+[867. Transpose Matrix](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/851~900/867_Transpose%20Matrix.md)  
+[872. Leaf-Similar Trees](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/851~900/872_Leaf-Similar%20Trees.md)  
+[876. Middle of the Linked Lis](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/851~900/876_Middle%20of%20the%20Linked%20List.md)  
+[888. Uncommon Words from Two Sentences](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/851~900/888_Uncommon%20Words%20from%20Two%20Sentences.md)  
+[896. Monotonic Array](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/851~900/896_Monotonic%20Array.md)  
+
+## 901~950
+[905. Sort Array By Parity](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/901~950/905_Sort%20Array%20By%20Parity.md)  
+[917. Reverse Only Letters](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/901~950/917_Reverse%20Only%20Letters.md)  
+[925. Long Pressed Name](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/901~950/925_Long%20Pressed%20Name.md)  
+[931. Minimum Falling Path Sum](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/901~950/931_Minimum%20Falling%20Path%20Sum.md)  
+
+## 951~1000
+[976. Largest Perimeter Triangle](https://github.com/HyejeanMOON/Scala-for-LeetCode/blob/master/951~1000/976_Largest%20Perimeter%20Triangle.md)  
